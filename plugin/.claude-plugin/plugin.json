@@ -1,0 +1,9 @@
+{
+  "name": "lean-sdd-probe",
+  "version": "0.0.1",
+  "description": "Probe plugin with one Markdown skill.",
+  "author": { "name": "alchristleo" },
+  "license": "MIT",
+  "homepage": "https://github.com/alchristleo/lean-sdd-probe",
+  "repository": "https://github.com/alchristleo/lean-sdd-probe"
+}

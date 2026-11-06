@@ -1,0 +1,13 @@
+{
+  "name": "lean-sdd-probe",
+  "description": "Probe marketplace: tests which files the plugin directory scans.",
+  "owner": { "name": "alchristleo" },
+  "plugins": [
+    {
+      "name": "lean-sdd-probe",
+      "source": "./plugin",
+      "description": "Probe plugin with one Markdown skill.",
+      "author": { "name": "alchristleo" }
+    }
+  ]
+}
